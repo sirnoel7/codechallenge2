@@ -28,7 +28,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+[https://github.com/sirnoel7]
 
 ### License
 The content of this site is licensed under the The Great Minds Coalition.
