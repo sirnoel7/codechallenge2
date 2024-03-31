@@ -2,7 +2,7 @@
 
 #### Date, 2024/03/30
 
-#### By *Noel Nyakundi*
+#### By Noel 'The Real Deal' Nyakundi
 
 ## Description
 It covers all sections of the second code challenge
