@@ -4,7 +4,7 @@ let array = [];
 function primeno(num){
  if(num<=1){
     return false;
-}
+},
 
 
-}
+};
